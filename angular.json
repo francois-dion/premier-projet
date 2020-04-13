@@ -24,9 +24,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/app/composants/mpc/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": ["src/app/composants/mpc/js/jquery.js","src/app/composants/mpc/js/bootstrap.js"]
           },
           "configurations": {
             "production": {
